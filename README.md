@@ -37,7 +37,7 @@
 </details>
 
 [twitter]: https://twitter.com/JainSeha
-[instagram]: https://instagram.com/
+[instagram]: https://www.instagram.com/sehaahaa/
 [linkedin]: https://www.linkedin.com/in/seha-jain-119918183/
 [terminal]: https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab
 [Github]: https://github.com/
