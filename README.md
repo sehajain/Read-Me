@@ -6,8 +6,8 @@
 ## I'm a Student and Learner!!
 
 - 🔭 I’m currently working on my portfolio.
-- 🌱 I’m learning everything 🤣
-- 🥅 2021 Goals: Sit, Eat Chips and Code
+- 🌱 I’m learning everything 
+- 🥅 2023 Goals: Good Job, company and environment 
 
 <div align="center"><h3>Connect with me:</h2></div>
 
